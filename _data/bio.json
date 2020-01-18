@@ -41,15 +41,13 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Software",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Microsoft word",
+        "Microsoft excel",
+        "Microsoft powerpoint",
+        "Photoshop"
       ]
     },
     {
@@ -57,19 +55,25 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Biotechnology",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-13-01",
+      "endDate": "2020-15-05",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+     {
+      "institution": "University of Technology Sydney, Sydney, Australia",
+      "area": "Bachelor of Biotechnology, Bachelor of Business (expected Spring, 2020)",
+      "startDate": "2017-10-03",
       "endDate": "Present",
       "gpa": "",
       "courses": [
