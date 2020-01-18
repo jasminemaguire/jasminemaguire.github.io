@@ -65,80 +65,52 @@
       "area": "Biotechnology",
       "studyType": "B.S.",
       "startDate": "2020-13-01",
-      "endDate": "2020-15-05"
-    }
+      "gpa": "",
+      "courses": []
+    },
     {
-      "institution": "University of Technology Sydney, Sydney, Australia",
-      "area": "Bachelor of Biotechnology, Bachelor of Business (expected Spring, 2020)",
-      "startDate": "2017-10-03",
-      "endDate": "Present"   
+      "institution": "University of Technology Sydney, NSW, Australia",
+      "area": "Biotechonlogy and Business",
+      "studyType": "Bachelor's degree",
+      "startDate": "2020-13-03",
+      "gpa": "",
+      "courses": []
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Peter Robertson and Co.",
+      "position": "Assistant Accountant",
+      "website": "https://pdrobertson.com.au/",
+      "startDate": "2019-10-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Administration and basic data entry and accounting assistance",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assistance in preparing individual and company tax returns",
+        "Assistance in preparing financial statements",
+        "Data entry and processing in MYOB and Quickbooks",
+        "Office administration tasks and upkeep"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "The Bathers' Pavilion",
+      "position": "Waitress/Bartender/Barista",
+      "website": "https://www.batherspavilion.com.au/",
+      "startDate": "2018-01-01",
+      "endDate": "2019-10-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Greeting customers and performing section waiter duties",
+        "Preparing cocktails and coffees"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Scholarship",
+      "date": "2011-2016",
+      "awarder": "Kincoppal - Rose Bay",
+      "summary": "Scholarship awarded on the basis of academic performance"
     }
   ],
   "references": [
