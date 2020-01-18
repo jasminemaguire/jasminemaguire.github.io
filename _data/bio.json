@@ -65,19 +65,13 @@
       "area": "Biotechnology",
       "studyType": "B.S.",
       "startDate": "2020-13-01",
-      "endDate": "2020-15-05",
-      "gpa": "",
-      "courses": [
-      ]
+      "endDate": "2020-15-05"
     }
-     {
+    {
       "institution": "University of Technology Sydney, Sydney, Australia",
       "area": "Bachelor of Biotechnology, Bachelor of Business (expected Spring, 2020)",
       "startDate": "2017-10-03",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
+      "endDate": "Present"   
     }
   ],
   "work": [
