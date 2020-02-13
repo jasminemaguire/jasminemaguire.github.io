@@ -8,13 +8,4 @@ labels:
   - Learning
 ---
 
-Initially, I ended up with an Sd time for BrowserHistory1. I read through the instructions and tried to complete it on my own, but 
-ended up having to refer to the htmldog website multiple times. Eventually I got the code correct and learned how to respond to
-the instructions much faster. I then deleted my Sd screencast and file to try and get an Rx time in which I was successful. 
-
-I had a similar experience with the last two BrowserHistory WODs - in which I had to refer to htmldog or the screencast on both
-first attempts and then after I knew what code was required it became more instinctive. 
-
-The biggest thing I struggled with was probably that since I wasn't doign a hard refresh and my cache was not disabled, the web
-pages would not update with the new code! I found this incredibly frustrating and my solution at the time was to end and start up
-the server again, which worked for me. But in future I will just do a hard refresh! 
+Initially, I ended up with an Sd time for BrowserHistory1. I read through the instructions and tried to complete it on my own, but ended up having to refer to the htmldog website multiple times. Eventually I got the code correct and learned how to respond to the instructions much faster. I then deleted my Sd screencast and file to try and get an Rx time in which I was successful. I had a similar experience with the last two BrowserHistory WODs - in which I had to refer to htmldog or the screencast on both first attempts and then after I knew what code was required it became more instinctive. The biggest thing I struggled with was probably that since I wasn't doign a hard refresh and my cache was not disabled, the web pages would not update with the new code! I found this incredibly frustrating and my solution at the time was to end and start up the server again, which worked for me. But in future I will just do a hard refresh! 
